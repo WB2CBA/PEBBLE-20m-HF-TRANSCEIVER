@@ -12,7 +12,7 @@ https://github.com/threeme3/usdx
 
 PEBBLE HF is an open source project. Hardware details are in this github.
 
-PEBBLE HF specific uSDX Firmware can be downloaded from this github link:
+PEBBLE HF specific uSDX Firmware can be downloaded from this github link: (Coming Soon)
 
 Anyone can build PEBBLE HF and program it with uSDX firmware or PEBBLE HF Specific Firmware. PEBBLE HF Hardware works with both options.
 
