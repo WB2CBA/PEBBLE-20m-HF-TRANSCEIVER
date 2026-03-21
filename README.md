@@ -16,4 +16,4 @@ PEBBLE HF specific uSDX Firmware can be downloaded from this github link:
 
 Anyone can build PEBBLE HF and program it with uSDX firmware or PEBBLE HF Specific Firmware. PEBBLE HF Hardware works with both options.
 
-PEBBLE HF Transceiver can be ordered from www.jlcpcb.com with fabrication files in fabrication file folder.
+PEBBLE HF Transceiver can be ordered from www.jlcpcb.com using fabrication files in fabrication file folder.
