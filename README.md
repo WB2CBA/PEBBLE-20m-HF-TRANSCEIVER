@@ -1,15 +1,22 @@
-# PEBBLE-20m-HF-TRANSCEIVER
+# PEBBLE-HF-MONOBAND SDR HF TRANSCEIVER
 
 https://pebblehf.com/
 ---------------------
 
-PEBBLE HF is an open source project. Hardware details are in this github.
+PEBBLE HF is an open source project. Hardware details are in this github. I also included latest firmware under PEBBLEHF FIRMWARE directory for the sake of practical reaching to the latest version.
 
-PEBBLE HF info and build manual plus PEBBLE HF Firmware can be downloaded from this github link: https://github.com/mspiceland/usdx-pebblehf
+PEBBLE HF info and build manual plus Latest PEBBLE HF Firmware can be downloaded from this github link: https://github.com/mspiceland/usdx-pebblehf
 -------------------------------------------------------------------------------------------------------------------------------------------
-PEBBLE HF is a 20m Monoband HF ALL MODE SDR TRANSCEIVER
+PEBBLE HF is a Monoband HF ALL MODE SDR TRANSCEIVER. Currently there is two band versions, 20m band and 40m band you can build with all the files and info in this github page.
 -------------------------------------------------------
 ![Pebble HF](https://github.com/user-attachments/assets/bb3c359d-36ef-4bb2-bbac-7e968c6b8ea2)
+
+Mike, N4FFF designed a very nice 3D printed case for pebblehf which you get the files from PEBBLEHF 3D printed Case Files Folder.
+
+For anyone who is 3D print challenged like myself I put together a bolt on top and bottom PCB panels which are included as GERBER files in the fabrication 
+
+files folders. It is not as elegant as 3D case but does the job the cover and protect the electronics.
+
 
 
 PEBBLE HF is based on USDX Micro Software Defined Transceiver Project with hardware and Firmware changes adapted to suit PEBBLE HF functions.
