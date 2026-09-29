@@ -7,7 +7,7 @@ PEBBLE HF is an open source project. Hardware details are in this github. I also
 
 PEBBLE HF info and build manual plus Latest PEBBLE HF Firmware can be downloaded from this github link: https://github.com/mspiceland/usdx-pebblehf
 -------------------------------------------------------------------------------------------------------------------------------------------
-PEBBLE HF is a Monoband HF ALL MODE SDR TRANSCEIVER. Currently there is two band versions, 20m band and 40m band you can build with all the files and info in this github page.
+PEBBLE HF is a Monoband HF ALL MODE SDR TRANSCEIVER. Currently there is two band versions, 20m band and 40m band you can build with all the files and info posted in this github page.
 -------------------------------------------------------
 ![Pebble HF](https://github.com/user-attachments/assets/bb3c359d-36ef-4bb2-bbac-7e968c6b8ea2)
 
