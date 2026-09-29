@@ -14,7 +14,7 @@ PEBBLE HF is a Monoband HF ALL MODE SDR TRANSCEIVER. Currently there is two band
 Mike, N4FFF designed a very nice 3D printed case for pebblehf which you get the files from PEBBLEHF 3D printed Case Files Folder.
 
 For anyone who is 3D print challenged like myself I put together a bolt on top and bottom PCB panels which are included as GERBER files in the fabrication 
-files folders. It is not as elegant as 3D case but does the job the cover and protect the electronics.
+files folders. It is not as elegant as 3D case but does the job to cover and protect the electronics.
 
 <img width="1512" height="1663" alt="IMG_5571" src="https://github.com/user-attachments/assets/988791d4-c141-4198-9d4a-d3aedb788671" />
 
