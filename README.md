@@ -11,6 +11,10 @@ PEBBLE HF is a Monoband HF ALL MODE SDR TRANSCEIVER. Currently there is two band
 -------------------------------------------------------
 ![Pebble HF](https://github.com/user-attachments/assets/bb3c359d-36ef-4bb2-bbac-7e968c6b8ea2)
 
+Richard Hinsley/ VK2ARH put together a very detailed PEBBLEHF Build Manual for 40m PEBBLEHF. It can also be used for 20m PEBBLEHF Build as they are identical apart from operating frequencies. 
+
+Thank you Richard. This is a great help.
+
 Mike, N4FFF designed a very nice 3D printed case for PEBBLEHF. Here is the link: https://hamradioduo.com/print-your-own-pebble-hf-case/
 
 For anyone who is 3D print challenged like myself I put together a bolt on top and bottom PCB panels which are included as GERBER files in the fabrication 
