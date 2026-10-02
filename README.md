@@ -11,7 +11,7 @@ PEBBLE HF is a Monoband HF ALL MODE SDR TRANSCEIVER. Currently there is two band
 -------------------------------------------------------
 ![Pebble HF](https://github.com/user-attachments/assets/bb3c359d-36ef-4bb2-bbac-7e968c6b8ea2)
 
-Richard Hinsley/ VK2ARH put together a very detailed PEBBLEHF Build Manual for 40m PEBBLEHF. It can also be used for 20m PEBBLEHF Build as they are identical apart from operating frequencies. 
+Richard Hinsley/ VK2ARH put together a very detailed PEBBLEHF Build Manual for 40m PEBBLEHF. It can also be used for 20m PEBBLEHF Build as they are identical apart from operating frequencies. I added to this repository. 
 
 Thank you Richard. This is a great help.
 
